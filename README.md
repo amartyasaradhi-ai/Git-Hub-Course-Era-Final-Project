@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A simple interest calculator application built using Bash scripting.
+A simple interest  application built using Bash scripting.
 
 ## Project Description
 This project provides a simple bash script to calculate simple interest
